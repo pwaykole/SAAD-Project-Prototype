@@ -1,2 +1,0 @@
-Main theme color: #32465A
-font : 
